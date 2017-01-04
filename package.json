@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tf198/level-view.git"
+    "url": "git://github.com/tf198/level-view.git"
   },
   "keywords": [
     "leveldb",
@@ -16,7 +16,7 @@
     "index"
   ],
   "author": "Tris Forster",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tf198/level-view/issues"
   },
